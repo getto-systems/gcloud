@@ -2,7 +2,7 @@
 
 gcloud docker file
 
-## docker pull
+## pull
 
 ```
 docker pull getto/gcloud
@@ -10,7 +10,7 @@ docker pull getto/gcloud
 
 * [Docker Hub](https://hub.docker.com/r/getto/gcloud/)
 
-## build image
+## build
 
 ```
 docker build -t getto/gcloud .
